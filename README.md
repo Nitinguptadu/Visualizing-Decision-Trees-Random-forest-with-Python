@@ -3,6 +3,8 @@
 
 This repo is for self learning purpose 
 
+How To Perform Post Pruning In Decision Tree? Prevent Overfitting using ccp_alphas value 
+
 
 How to Visualize Decision Trees using Matplotlib 
 
